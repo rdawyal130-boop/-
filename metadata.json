@@ -1,0 +1,8 @@
+{
+  "name": "مكتب النور ",
+  "description": "تطبيق متكامل لتمكين أصحاب السوبرماركت من شراء المنتجات من تجار الجملة، مع تصنيفات مخصصة وإدارة الأسعار والطلبات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
